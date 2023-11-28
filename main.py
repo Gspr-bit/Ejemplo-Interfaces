@@ -1,10 +1,11 @@
 name = input("Ingresa tu nombre")
 print(f"Hola {name}")
 
-print("Ingresa dos numeros")
+print("Ingresa tres numeros")
 a = int(input())
 b = int(input())
+c = int(input())
 
-name = input("ingresa tu nombre")
-print("hola {name}")
+print(f"La suma es {a+b+c}")
+
 
